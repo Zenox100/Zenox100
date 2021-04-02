@@ -1,0 +1,18 @@
+prefix: "|"
+
+
+giveaway_role: "Admin"
+
+
+bot_activity: dnd
+
+
+help_command: True
+
+setup_timeout: 15.0
+
+
+react_emoji: "<a:Giveaway_1:822115951494430720>"
+
+
+ping_winner_message: True
